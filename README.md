@@ -1,7 +1,7 @@
 NYC Public School Rating and Student Performance
 ============================================================
 
-We wanted to check if there was a relationship between New York City Public High School rating, given by the Department of Education and the school's student attendance and SAT score performance. All our data came from the New York City Open Data source.
+[Chad](https://github.com/cruble) and I wanted to check if there was a relationship between New York City Public High School rating, given by the Department of Education and the school's student attendance and SAT score performance. All our data came from the New York City Open Data source.
 
 Source
 -----------
